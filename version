@@ -1,0 +1,21 @@
+;
+; Version description file for plugin @@ Next Generation CMS
+;
+
+ID: playerjs
+Name: Плеер playerjs
+Version: 0.2
+Actions: admin:mod:news;playerjs_news.php
+Actions: news_short, news_full; playerjs.php
+File: playerjs.php
+Install: install.php
+Deinstall: deinstall.php
+Config: config.php
+Type: plugin
+Description: Плейлист видео с YouTube в новости
+Author: KachalkinGgeorg
+Author_URI: https://gk-stalker.ru/
+Icon: <i class='fa fa-play-circle fa-2x'></i>
+URI:
+Title: Плеер playerjs
+Information: Добовляем на сайт видео с YouTube и создаем плейлист для новости.
